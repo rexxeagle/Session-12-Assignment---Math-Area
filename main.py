@@ -1,7 +1,8 @@
 from area import circle, square, triangle
 from volume import ball, cubic, trapezoid
 
-print("Welcome to the program!")
+print("===========Welcome to the program!===========")
+print("==Made by Rendy Elang Lesmana | 20230040044==")
 def menu():
     print("Here's the available menu:")
     print("1. Circle Area")
